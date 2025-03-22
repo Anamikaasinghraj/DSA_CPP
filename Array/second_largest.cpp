@@ -1,3 +1,7 @@
+// find second largest element in an Array:-
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -32,3 +36,5 @@ int main() {
 
     return 0;
 }
+
+// output: 84
