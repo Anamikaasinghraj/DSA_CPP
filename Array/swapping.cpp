@@ -1,5 +1,10 @@
+// swapping in an array in ascending order:-
+
+
 #include <iostream>
 using namespace std;
+
+//using sorting
 
 void sortArray(int arr[], int n) {
     for (int i = 0; i < n - 1; i++) {
@@ -21,3 +26,5 @@ int main() {
 
     return 0;
 }
+
+// output: 0, 9, 31, 39, 67, 78, 78, 96
