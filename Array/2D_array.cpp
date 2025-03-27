@@ -1,3 +1,5 @@
+//ram to input a 3x3 matrix, compute the sum of all elements, and print the matrix along with the sum:-
+
 #include <iostream>
 using namespace std;
 
